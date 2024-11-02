@@ -1,6 +1,6 @@
 ![alt my portfolio homepage](portfolio-screenshot.webp)
 
-# Hi, my name is Tiegan 👋
+# Hi, my name is Tiegan 👋 🐈‍⬛ 🇨🇦
 
 ### I make websites
 
