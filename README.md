@@ -1,3 +1,5 @@
+![alt my portfolio homepage] 
+
 # Hi, my name is Tiegan 👋
 
 ### I make websites
