@@ -1,4 +1,4 @@
-![alt my portfolio homepage] 
+![alt my portfolio homepage] (portfolio-screenshot.webp)
 
 # Hi, my name is Tiegan 👋
 
